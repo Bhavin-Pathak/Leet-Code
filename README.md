@@ -10,9 +10,3 @@ This repository contains solutions to LeetCode problems in multiple languages, i
 - **Variety of Problems**: Solutions range from basic to challenging LeetCode problems.
 - **Focus on Algorithms & Data Structures**: Key algorithms and data structures are emphasized to improve problem-solving skills.
 - **Interview Preparation**: Useful for preparing for coding interviews by covering a wide range of problem types.
-
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   [git clone https://github.com/yourusername/leetcode-solutions.git](https://github.com/Bhavin-Pathak/Leet-Code.git)
