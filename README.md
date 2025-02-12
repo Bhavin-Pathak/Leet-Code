@@ -1,6 +1,8 @@
 # LeetCode Solutions Repository
 
-This repository contains solutions to LeetCode problems in multiple languages, including **JavaScript** and **Dart**. The solutions are optimized, readable, and come with clear, easy-to-understand explanations for each problem.
+A collection of LeetCode solutions in JavaScript and Dart with optimized, readable code and clear explanations. Includes both basic and challenging problems, focusing on key algorithms and data structures for effective problem-solving.
+
+
 
 ## Features
 
