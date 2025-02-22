@@ -1,4 +1,3 @@
-// Definition for a binary tree node
 class TreeNode {
     constructor(val, left = null, right = null) {
         this.val = val;
@@ -7,11 +6,6 @@ class TreeNode {
     }
 }
 
-/**
- * Function to recover the binary tree from preorder traversal
- * @param {string} traversal - Preorder traversal string with depth represented by '-'
- * @return {TreeNode} - Root of the reconstructed binary tree
- */
 var recoverFromPreorder = function(traversal) {
     let stack = []; // Stack to keep track of nodes at different depths
     let i = 0;
@@ -56,10 +50,6 @@ var recoverFromPreorder = function(traversal) {
     return stack[0]; // The first element in the stack is the root
 };
 
-/**
- * Function to print tree in level order for better visualization
- * @param {TreeNode} root - Root node of the tree
- */
 var printTree = function(root) {
     if (!root) return;
     
