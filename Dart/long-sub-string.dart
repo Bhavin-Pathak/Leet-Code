@@ -18,7 +18,7 @@ int lengthOfLongestSubstring(String s) {
   return maxLength;
 }
 
-// Example test cases
+// Example test cases with expected outputs
 void main() {
   print(lengthOfLongestSubstring("abcabcbb")); // Output: 3
   print(lengthOfLongestSubstring("bbbbb")); // Output: 1
