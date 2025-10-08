@@ -4,7 +4,7 @@ A collection of LeetCode solutions in JavaScript and Dart with optimized, readab
 
 ## Features
 
-- **Multiple Languages**: Solutions in JavaScript and Dart.
+- **Multiple Languages**: Every Solutions With JavaScript and Dart.
 - **Optimized Code**: Code is written to be efficient and easy to follow.
 - **Clear Explanations**: Every solution comes with a detailed explanation of the approach.
 - **Variety of Problems**: Solutions range from basic to challenging LeetCode problems.
